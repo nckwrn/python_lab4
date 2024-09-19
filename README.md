@@ -1,4 +1,4 @@
-I definitely hot first-hand experience with encapsulating and generalization with this lab.
+I definitely got first-hand experience with encapsulating and generalization with this lab.
 I started the lab with very specific code that only worked for my one specific pumpkin.
 THen when I got to the point where I wanted to draw multiple pumpkins with different scales, the
 positions of everything got totally messed up. I wish I was warned about being sure to generalize
